@@ -10,6 +10,17 @@ Also compiled into a single file:
 
 `all-in-one.json`
 
+
+# Adding new files/updating
+
+after adding new files run
+
+```shell
+make
+```
+
+to recompile `all-in-one.json`
+
 # Sample use
 
 ```shell
