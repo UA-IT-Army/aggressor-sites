@@ -2,5 +2,9 @@ name: merge-publish
 on: [push]
 jobs:
   check-bats-version:
-    runs-on: ubuntu-latest
-    steps: []
+    runs-on: alpine
+    steps:
+      - name: add jq
+        run: apk add --no-cache jq
+      - name: run jq
+        run: jq --help
