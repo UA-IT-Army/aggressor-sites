@@ -21,7 +21,7 @@
 	"https://vz.ru/":             {},
 	"https://sputniknews.ru":    {},
 	"https://www.gazeta.ru":     {},
-	"https://www.kp.ru":         {},
+	"https://www.kp.ru/":         {},
 	"https://riafan.ru/":         {},
 	"https://pikabu.ru/":         {},
 	"https://www.kommersant.ru": {},
@@ -39,5 +39,6 @@
     "https://regnum.ru/":   	 {},
 	"http://www.kremlin.ru":     {},
 	"http://transformator.tv/":	 {},
-	"https://nsn.fm/":			 {}
+	"https://nsn.fm/":			 {},
+	"https://colonelcassad.livejournal.com/":	{}
 }
