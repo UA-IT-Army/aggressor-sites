@@ -1,6 +1,6 @@
 {
-	"https://lenta.ru":          {},
-	"https://ria.ru":            {},
+	"https://lenta.ru/":          {},
+	"https://ria.ru/":            {},
 	"https://ria.ru/lenta":      {},
 	"https://www.rbc.ru":        {},
 	"https://www.rt.com":        {},
@@ -37,6 +37,5 @@
     "https://www.mk.ru/":  		 {},
     "https://russian.rt.com/":   {},
     "https://regnum.ru/":   	 {},
-	"http://www.kremlin.ru":     {},
-	"https://lenta.ru/":		 {}
+	"http://www.kremlin.ru":     {}
 }
