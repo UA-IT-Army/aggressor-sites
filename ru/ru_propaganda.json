@@ -23,7 +23,7 @@
 	"https://www.gazeta.ru":     {},
 	"https://www.kp.ru":         {},
 	"https://riafan.ru/":         {},
-	"https://pikabu.ru":         {},
+	"https://pikabu.ru/":         {},
 	"https://www.kommersant.ru": {},
 	"https://omk.ru":            {},
 	"https://www.yaplakal.com":  {},
@@ -37,6 +37,5 @@
     "https://www.mk.ru/":  		 {},
     "https://russian.rt.com/":   {},
     "https://regnum.ru/":   	 {},
-	"http://www.kremlin.ru":     {},
-	"https://pikabu.ru/":		 {}
+	"http://www.kremlin.ru":     {}
 }
