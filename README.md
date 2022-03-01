@@ -1,3 +1,15 @@
+# Sites
+
+sites are split by region where possible:
+
+* `ru`
+* `by`
+* `other`
+
+Also compiled into a single file:
+
+`all-in-one.json`
+
 # Sample use
 
 ```shell
