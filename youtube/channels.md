@@ -9,7 +9,7 @@
 
 # YouTube-канали ЗМІ
 * Первый канал: https://www.youtube.com/channel/UCX9-cJy8dZWDI8hCnmahuLA
-* Россия 24: https://www.youtube.com/c/Russia24TV
+* Россия 24: https://www.youtube.com/c/Russia24TV/about
 * TASS: https://www.youtube.com/c/TASSagency
 * РИА Новости: https://www.youtube.com/user/rianovosti
 * Россия 1: https://www.youtube.com/channel/UC2D0dmLHKbIe9aACnlcTLPg
