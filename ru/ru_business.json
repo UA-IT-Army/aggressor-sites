@@ -16,5 +16,10 @@
 	"https://ya.ru":                             {},
 	"https://www.polymetalinternational.com/ru": {},
 	"https://www.uralkali.com/ru":               {},
-	"https://www.eurosib.ru":                    {}
+	"https://www.eurosib.ru":                    {},
+	"https://www.ozon.ru/":						 {},
+	"https://www.ozon.ru/travel/":				 {},
+	"https://business.ozon.ru/": 				 {},
+	"https://www.wildberries.ru/":				 {},
+	"https://seller.wildberries.ru/":			 {}
 }
