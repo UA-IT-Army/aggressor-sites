@@ -32,8 +32,11 @@
 * Соловьёв LIVE: https://www.youtube.com/channel/UCQ4YOFsXjG9eXWZ6uLj2t2A
 
 # Інші
-* https://youtu.be/GhICD2SrKUA
-* https://youtube.com/channel/UCovFGof8xwTvc1ivgEnXXBA
-* https://youtube.com/channel/UCxc2TEKqPelziP8M5m8QjEg
-* https://youtube.com/channel/UCcaFPCxVZi3J_k1d3DuXjiQ
-
+* https://www.youtube.com/channel/UCSQSxUJb4zH1SEpzNerSLLg/about
+* https://youtube.com/channel/UCovFGof8xwTvc1ivgEnXXBA/about
+* https://youtube.com/channel/UCxc2TEKqPelziP8M5m8QjEg/about
+* https://youtube.com/channel/UCcaFPCxVZi3J_k1d3DuXjiQ/about
+* https://www.youtube.com/channel/UCSQSxUJb4zH1SEpzNerSLLg/about
+* https://www.youtube.com/channel/UCQ4YOFsXjG9eXWZ6uLj2t2A/about
+* https://www.youtube.com/c/CoachRedPill/about
+* https://www.youtube.com/c/Dulskiylive/about
