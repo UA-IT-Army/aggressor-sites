@@ -43,3 +43,4 @@
 * https://www.youtube.com/channel/UCQ4YOFsXjG9eXWZ6uLj2t2A/about
 * https://www.youtube.com/c/CoachRedPill/about
 * https://www.youtube.com/c/Dulskiylive/about
+* https://www.youtube.com/c/MichaelRossiPoliSci/about
