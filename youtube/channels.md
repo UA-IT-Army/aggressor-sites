@@ -53,3 +53,4 @@
 * https://www.youtube.com/c/TransformatorTV/about
 * https://www.youtube.com/c/ВключайМозги/about
 * https://www.youtube.com/channel/UC6qbvhfHYj2KK3NaIY7W_Ag/about
+* https://www.youtube.com/channel/UCEOGNWO5Eh9D5j0ME3jgnTg/about
