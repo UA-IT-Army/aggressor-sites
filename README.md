@@ -8,7 +8,8 @@ sites are split by region where possible:
 
 Also compiled into a single file:
 
-`all-in-one.json`
+* `all-in-one.json` - all sites
+* `all-in-one-cf.json` - sites protected by CloudFlare DNS
 
 
 # Adding new files/updating
