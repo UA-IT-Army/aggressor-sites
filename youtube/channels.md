@@ -38,7 +38,7 @@
 
 Для зручності посилання одразу на "Про канал"
 
-* https://www.youtube.com/channel/UCSQSxUJb4zH1SEpzNerSLLg/about
+* Юрий Подоляка: https://www.youtube.com/channel/UCSQSxUJb4zH1SEpzNerSLLg/about
 * https://www.youtube.com/channel/UCovFGof8xwTvc1ivgEnXXBA/about
 * https://www.youtube.com/channel/UCxc2TEKqPelziP8M5m8QjEg/about
 * https://www.youtube.com/channel/UCcaFPCxVZi3J_k1d3DuXjiQ/about
@@ -56,3 +56,4 @@
 * https://www.youtube.com/channel/UC6qbvhfHYj2KK3NaIY7W_Ag/about
 * https://www.youtube.com/channel/UCEOGNWO5Eh9D5j0ME3jgnTg/about
 * https://www.youtube.com/channel/UCOlIqu6hH1dASaF71R1_oyw/about
+* https://www.youtube.com/channel/UCWiSU74NI_NVge5TkvFK2kA/about
