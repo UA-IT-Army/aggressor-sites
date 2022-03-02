@@ -16,6 +16,7 @@
 * РБК: https://www.youtube.com/channel/UCWAK-dRtTEjnQnD96L6UMsQ
 * Телеканал Звезда: https://www.youtube.com/channel/UCRds47MZ1Ng7KCLseg2TkWA
 * Одесское Общественное Телевидение: https://www.youtube.com/c/%D0%9E%D0%9E%D0%A224/about
+* Новости на Первом Канале: https://www.youtube.com/channel/UCKonxxVHzDl55V7a9n_Nlgg/about
 
 # YouTube-канали
 * Сила Слова: https://www.youtube.com/channel/UC8Nl7TQLC6eX8MTRCuAw3SA
