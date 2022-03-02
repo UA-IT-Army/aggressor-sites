@@ -28,6 +28,7 @@
 * Кеосаян daily https://www.youtube.com/channel/UCJvDYmmZDbeDy5N_aBxXjpA
 * RUSSIAN TOP NEWS https://www.youtube.com/channel/UCMTaJV_Gyp1YOWJwSNa0wRw
 * Уставший оптимист https://www.youtube.com/channel/UC8lCS8Ubv3t0-Tf4IYLioTA
+* Секретные Материалы: https://www.youtube.com/channel/UCnfx6M4GEp2EqnBhq8vV0lA/about
 
 # YouTube-блогери:
 * ZIMA LIVE: https://www.youtube.com/c/ZimaLive
