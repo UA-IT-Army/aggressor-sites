@@ -51,3 +51,4 @@
 * https://www.youtube.com/user/SuperSharij/about
 * https://www.youtube.com/c/TransformatorTV/about
 * https://www.youtube.com/c/ВключайМозги/about
+* https://www.youtube.com/channel/UC6qbvhfHYj2KK3NaIY7W_Ag/about
