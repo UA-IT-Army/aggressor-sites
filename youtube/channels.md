@@ -59,3 +59,4 @@
 * https://www.youtube.com/channel/UCWiSU74NI_NVge5TkvFK2kA/about
 * https://www.youtube.com/c/WarGonzo/about
 * https://www.youtube.com/channel/UC6psT9WoOinfL2Dk9dB_jEA/about
+* https://youtube.com/c/ОружейныйМастерок/about
