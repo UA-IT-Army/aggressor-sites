@@ -29,6 +29,8 @@
 * RUSSIAN TOP NEWS https://www.youtube.com/channel/UCMTaJV_Gyp1YOWJwSNa0wRw
 * Уставший оптимист https://www.youtube.com/channel/UC8lCS8Ubv3t0-Tf4IYLioTA
 * Секретные Материалы: https://www.youtube.com/channel/UCnfx6M4GEp2EqnBhq8vV0lA/about
+* Политическая Россия – PolitRussia: https://www.youtube.com/user/PolitRussiaCom/about
+
 
 # YouTube-блогери:
 * ZIMA LIVE: https://www.youtube.com/c/ZimaLive
@@ -60,3 +62,7 @@
 * https://www.youtube.com/c/WarGonzo/about
 * https://www.youtube.com/channel/UC6psT9WoOinfL2Dk9dB_jEA/about
 * https://youtube.com/c/ОружейныйМастерок/about
+* https://www.youtube.com/c/alternatioorg_channel/about
+* https://www.youtube.com/channel/UCcvMdU6a3jqWxBd3ODJS4CQ/about
+* https://www.youtube.com/channel/UC-xlMI3uT54T8UBdkEwSLdA/about
+* https://www.youtube.com/c/МаргаритаСимоньян5/about
